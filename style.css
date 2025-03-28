@@ -1,0 +1,90 @@
+.navbar-bg{
+    background: black;
+    
+}
+.icon-1{
+    font-size: 30px;
+}
+  
+.icon-flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
+}
+.cards{
+    background-color: rgb(226, 226, 226);
+    padding: 10px;
+    border-radius: 10px;
+}
+.login{
+    background-color: black;
+}
+
+.radius{
+    border-radius: 15px;
+    
+}
+.gap{
+    gap: 20px;
+}
+.Benefits{
+    border: 1px solid rgb(200, 195, 195);
+    padding: 25px;
+    border-radius: 10px;
+
+
+}
+.drive{
+    margin-top: 100px;
+}
+.font{
+    font-size: 45px;
+    color: black;
+}
+.price{
+    color: black;
+    text-decoration: none;
+
+}
+.see{
+    background-color: black;
+}
+.square{
+    margin-top: 100px;
+}
+.uber{
+    margin-top: 150px;
+}
+
+.money{
+   margin-top: 100px;    
+}
+.foont{
+    font-size: 40px;
+    color: black;
+}
+
+.map{
+    flex-wrap: wrap-reverse;
+}
+.business{
+    margin-top: 100px;
+}
+.navdrive{
+    background-color: black;
+}
+.first{
+    background-color: black;
+    padding: 5px;
+   
+}
+.point{
+    padding: 40px;
+}
+.blck{
+    background-color: black;
+}
+
+
+
+   
