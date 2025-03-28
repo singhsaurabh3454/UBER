@@ -38,9 +38,20 @@
     margin-top: 100px;
 }
 .font{
-    font-size: 45px;
+    font-size: 3rem;
     color: black;
 }
+
+@media (max-width:789px) {
+     .font{
+        font-size: 6vw;
+     }
+     .price{
+        display: block;
+        margin-top: 20px;
+     }
+}
+
 .price{
     color: black;
     text-decoration: none;
@@ -84,6 +95,14 @@
 .blck{
     background-color: black;
 }
+
+.ubers{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
 
 
 
